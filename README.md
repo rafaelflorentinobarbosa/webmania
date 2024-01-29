@@ -1,6 +1,6 @@
 # webmania
 
-## Projeto Senai Sp loja de jogos
+## Projeto Senai SP loja de jogos
 
 <br>
 
